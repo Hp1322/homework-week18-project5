@@ -1,0 +1,8 @@
+com\localhost\assertionexample\AssertionExamples.class
+com\localhost\swaggerinfo\StoreCURDTestWithSteps.class
+com\localhost\swaggerinfo\UtilitiesCURDTestWithSteps.class
+com\localhost\swaggerinfo\CategoriesCURDTestWithSteps.class
+com\localhost\swaggerinfo\FirstTest.class
+com\localhost\testbase\TestBase.class
+com\localhost\swaggerinfo\ProductCURDTestWithSteps.class
+com\localhost\swaggerinfo\ServiceCURDTestWithSteps.class

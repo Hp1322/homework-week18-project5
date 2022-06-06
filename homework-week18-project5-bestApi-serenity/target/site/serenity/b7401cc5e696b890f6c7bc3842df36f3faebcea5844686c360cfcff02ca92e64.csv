@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories CURD test with steps","This will create a new category","SUCCESS","2022-06-06T23:14:11.884+01:00[Europe/London]","0.0","7.57"
+"Categories CURD test with steps","Verify if the category was added to the stock","SUCCESS","2022-06-06T23:14:19.569+01:00[Europe/London]","0.0","0.32"
+"Categories CURD test with steps","Update the category information and verify updated categories","SUCCESS","2022-06-06T23:14:19.891+01:00[Europe/London]","0.0","0.39"
+"Categories CURD test with steps","Delete the category and verify if the category is deleted!","SUCCESS","2022-06-06T23:14:20.287+01:00[Europe/London]","0.0","0.76"

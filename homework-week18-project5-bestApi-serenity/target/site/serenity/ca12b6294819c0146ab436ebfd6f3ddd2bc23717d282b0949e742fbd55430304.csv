@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CURD test with steps","This will create a new product","SUCCESS","2022-06-06T23:14:23.474+01:00[Europe/London]","0.0","0.17"
+"Product CURD test with steps","Verify if the product was added to the stock","SUCCESS","2022-06-06T23:14:23.655+01:00[Europe/London]","0.0","0.05"
+"Product CURD test with steps","Update the product information and verify updated information","SUCCESS","2022-06-06T23:14:23.704+01:00[Europe/London]","0.0","0.14"
+"Product CURD test with steps","Delete the product and verify if the product is deleted!","SUCCESS","2022-06-06T23:14:23.843+01:00[Europe/London]","0.0","0.14"
