@@ -61,7 +61,7 @@ public class AssertionExamples {
     //6. Check hash map values ‘createdAt’ inside storeservices map where store name = Roseville
     @Test //To be checked
     public void test006(){
-      response.body("data[1].services.storeservices", hasKey("createdAt"));
+      response.body("data[1].services.storeservices.createdAt", hasItem("2016-11-17T17:57:09.417Z"));
     }
     //7. Verify the state = MN of forth store
     @Test
